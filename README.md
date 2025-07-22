@@ -1,7 +1,6 @@
 # MobileNet ONNX Runner
 
-A lightweight, single-inference ONNX Runtime Docker image for MobileNet.  
-Wraps a MobileNet `.onnx` model in a CLI container that takes an image path, runs inference, and prints the top-1 label (e.g. `284: Siamese cat`).
+A lightweight, single-inference ONNX Runtime Docker image for MobileNet. Wraps a MobileNet `.onnx` model in a CLI container that takes an image path, runs inference, and prints the top-1 label (e.g. `284: Siamese cat`).
 
 ---
 
