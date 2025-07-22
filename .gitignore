@@ -1,0 +1,4 @@
+# Python virtual environment(s)
+.venv/
+
+.DS_Store
